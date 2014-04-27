@@ -1,0 +1,3 @@
+The JPEG Metadata Extender is a Python module that launches a GUI built with Tkinter. It accepts user input about a specific JPEG photo set, and when run on a directory of JPEG photos, it creates an XML metadata document that contains the user input and the original EXIF data for each JPEG.
+
+Tested on Windows 7, 64-bit, Python 2.7
